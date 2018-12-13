@@ -16,7 +16,7 @@ public class DemoController {
 		Map<String, Object> resultMap = new HashMap<>();
 		resultMap.put("stat", 0);
 		resultMap.put("msg", "success");
-		resultMap.put("val", "demo-test-1");
+		resultMap.put("val", "demo-test-2");
 		return resultMap;
 	}
 }
